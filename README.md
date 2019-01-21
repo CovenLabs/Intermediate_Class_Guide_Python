@@ -9,9 +9,9 @@
 
           Performance Measures, Bias and Variance 
 
-          Hypothesis and Inference 
+          Statistics - Probability
 
-          Linear Algebra 
+          Maths - Linear Algebra 
 
           Introduction to scikit-learn and installation 
 
@@ -21,8 +21,10 @@
 
           Simple and Multiple Linear Regression, Polynomial Regression 
 
-          Regularization 
-
+          Regularization
+          
+          Statistics - Hypotheses and Inference
+          
           Cost Function and Gradient Descent 
 
           Non-Linear regression with Decision Trees and Random Forests 
